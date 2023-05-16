@@ -6,8 +6,6 @@
 
 `npm run start` - run development server.
 
-`npm run build:dev` - create development build.
-
 `npm run build:prod` - create production build.
 
 `npm run analyze:prod` - run analyze production build.

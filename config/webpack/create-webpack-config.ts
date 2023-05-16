@@ -26,7 +26,7 @@ const createWebpackConfig = (options: IOptions): Configuration => {
       publicPath: '/',
     },
     module: {
-      rules: createLoaders(),
+      rules: createLoaders(isDev),
     },
     resolve: createResolvers(src),
     plugins: createPlugins(options),
