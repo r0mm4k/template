@@ -8,6 +8,7 @@ type TAnalyze = 'on' | 'off';
 interface IPaths {
   entry: string;
   build: string;
+  assets: string;
   html: string;
   src: string;
 }
