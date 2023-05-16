@@ -1,4 +1,4 @@
-# TEMPLATE
+# TEMPLATE (STARTER KIT)
 
 [![CTRL CI](https://github.com/r0mm4k/template/actions/workflows/ci.yml/badge.svg)](https://github.com/r0mm4k/template/actions/workflows/ci.yml)
 
