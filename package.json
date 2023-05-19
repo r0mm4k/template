@@ -1,6 +1,8 @@
 {
-  "name": "template",
+  "name": "@r0mm4k/template",
   "version": "0.1.0",
+  "description": "TEMPLATE (STARTER KIT)",
+  "author": "Roma Makarov (r0mm4k)",
   "scripts": {
     "start": "webpack serve --env port=3000",
     "build:prod": "webpack --env mode=production",
